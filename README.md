@@ -1,16 +1,16 @@
-## Hi there 👋
+Applied AI Engineer · Autonomous Agents & Agent Infrastructure
+  
+I ship autonomous, tool-orchestrating agents and engineer around what breaks them: hallucination, state drift, 
+over-triggering, and trust collapse. 
+Multi-agent orchestration, human-in-the-loop gates enforced in code, deterministic routing, RAG, and evals. 
 
-<!--
-**jwolberg/jwolberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder: built a production platform end to end published a Model Context Protocol server to PyPI.
 
-Here are some ideas to get you started:
+ **Live platform:** [tradingvolatility.net](https://tradingvolatility.net) — production options-analytics platform (~1M contracts/day → ~60M signals) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ &nbsp;·&nbsp; 📦 **its MCP server (PyPI):** [`tradingvolatility/tv-mcp`](https://github.com/tradingvolatility/tv-mcp) &nbsp;·&nbsp; 
+
+ 
+🔗 [linkedin.com/in/jaywolberg](https://www.linkedin.com/in/jaywolberg/)
+
+Other selected repos — chartbreaker · intake-hub · ai-sales-agent · blastgate 
