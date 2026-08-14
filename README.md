@@ -2,7 +2,7 @@ Applied AI Engineer · Autonomous Agents & Agent Infrastructure
   
 I build and ship autonomous AI agent -- tool-calling, multi-agent, with guardrails in code so cost and behavior stay predictable. Multi-agent orchestration, human-in-the-loop gates enforced in code, deterministic routing, RAG, and evals. 
 
-Founder in 2013: I've built 2 companies and a production SaaS platform end-to-end.
+Founder: I've built 2 companies and a production SaaS platform end-to-end.
 Published Model Context Protocol server to PyPI.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jaywolberg/) 
