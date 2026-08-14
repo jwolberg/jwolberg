@@ -16,7 +16,7 @@ Published Model Context Protocol server to PyPI.
 
 | Product | What it is |
 |---|---|
-| **[tradingvolatility.net](https://tradingvolatility.net)** | Production options-analytics platform (~1M contracts/day → ~60M signals). Live subscription business. |
+| **[tradingvolatility.net](https://stocks.tradingvolatility.net/)** | Production options-analytics platform (~1M contracts/day → ~60M signals). Live subscription business. |
 | **[arethingsok.com](https://arethingsok.com)** | Event-driven world-monitoring (news, air traffic, earthquakes, port congestion, ISP/data-center outages, FX, air quality, sports, prediction markets). When an event fires, a swarm of LLM agents analyzes it from  multiple angles and produces a synthesized report. |
 | **[optionace.net](https://optionace.net)** | Provides portfolio-specific optimization opportunities and trade automation for stocks and options. |
 | **[sparkbuddy.io](https://sparkbuddy.io)** | Turns a business idea into a step-by-step plan (GPT-4o, server-side). Full-stack React/Vite + Stripe. |
