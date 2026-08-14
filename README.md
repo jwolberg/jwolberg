@@ -9,7 +9,7 @@ Published Model Context Protocol server to PyPI.
 
 
 ### Flagship
-**[tradingvolatility.net](https://tradingvolatility.net)** — production options-analytics platform I built and run: ~1M options contracts/day → ~60M decision-ready signals across ~1,000 securities. Its **[Model Context Protocol server](https://github.com/tradingvolatility/tv-mcp)** (published to PyPI) puts those live signals inside Claude, Cursor, and VS Code.
+**[tradingvolatility.net](https://stocks.tradingvolatility.net/)** — production options-analytics platform I built and run: ~1M options contracts/day → ~60M decision-ready signals across ~1,000 securities. Its **[Model Context Protocol server](https://github.com/tradingvolatility/tv-mcp)** (published to PyPI) puts those live signals inside Claude, Cursor, and VS Code.
 
 
 ### Shipped products — designed, built & owned end-to-end
