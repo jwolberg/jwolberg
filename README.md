@@ -25,11 +25,11 @@ Published Model Context Protocol server to PyPI.
 
 ### Selected AI systems demos
 
+- **[cfo-ai](https://github.com/jwolberg/cfo-ai)** — autonomous debt-paydown agent: a deterministic, auditable decision engine forecasts a household's cash, decides what is truly surplus, and moves it onto the costliest card to save on interest payments. Built for Plaid transfer + Method payment rails.
+- **[entityiq](https://github.com/jwolberg/entityiq)** — business verification and sanctions screening: a multi-stage pipeline pulls registry, sanctions, domain, network, and web evidence into a deterministic, explainable risk score; every decision is replayable and a human approves every account.
+- **[ai-sales-agent](https://github.com/jwolberg/ai-sales-agent)** — real-time voice agent with human-approval-gated payments; a consequential action never fires on its own.
 - **[chartbreaker](https://github.com/jwolberg/chartbreaker)** — autonomous multi-agent red-teamer: an orchestrator dispatches six specialized attackers; an isolated LLM-as-judge auto-promotes confirmed findings into a regression suite. 
 - **[intake-hub](https://github.com/jwolberg/intake-hub)** — document → structured extraction with per-field confidence that routes low-confidence records to a human instead of guessing.
-- **[ai-sales-agent](https://github.com/jwolberg/ai-sales-agent)** — real-time voice agent with human-approval-gated payments; a consequential action never fires on its own.
-- **[entityiq](https://github.com/jwolberg/entityiq)** — business verification and sanctions screening: a multi-stage pipeline pulls registry, sanctions, domain, network, and web evidence into a deterministic, explainable risk score; every decision is replayable and a human approves every account.
-- **[cfo-ai](https://github.com/jwolberg/cfo-ai)** — autonomous debt-paydown agent: a deterministic, auditable decision engine forecasts a household's cash, decides what is truly surplus, and moves it onto the costliest card to save on interest payments. Built for Plaid transfer + Method payment rails.
 
 ### Stack
 Python (Flask / FastAPI) · JavaScript / React / Vite · TypeScript (ramping) · LangChain / LangGraph · RAG (Pinecone) · MCP · Google Cloud (App Engine, Cloud Run) · Docker · Postgres / Firestore
