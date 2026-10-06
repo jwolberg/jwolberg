@@ -27,6 +27,7 @@ Published Model Context Protocol server to PyPI.
 - **[intake-hub](https://github.com/jwolberg/intake-hub)** — document → structured extraction with per-field confidence that routes low-confidence records to a human instead of guessing.
 - **[ai-sales-agent](https://github.com/jwolberg/ai-sales-agent)** — real-time voice agent with human-approval-gated payments; a consequential action never fires on its own.
 - **[blastgate](https://github.com/jwolberg/blastgate)** — deterministic agent/MCP supply-chain security gate; fails a change only on a real attacker→secret path; mapped to the OWASP Agentic Top 10. 
+- **[entityiq](https://github.com/jwolberg/entityiq)** — business verification and sanctions screening: a multi-stage pipeline pulls registry, sanctions, domain, network, and web evidence into a deterministic, explainable risk score; every decision is replayable and a human approves every account.
 
 ### Stack
 Python (Flask / FastAPI) · JavaScript / React / Vite · TypeScript (ramping) · LangChain / LangGraph · RAG (Pinecone) · MCP · Google Cloud (App Engine, Cloud Run) · Docker · Postgres / Firestore
