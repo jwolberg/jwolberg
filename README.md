@@ -20,6 +20,7 @@ Published Model Context Protocol server to PyPI.
 | **[arethingsok.com](https://arethingsok.com)** | Event-driven world-monitoring (news, air traffic, earthquakes, port congestion, ISP/data-center outages, FX, air quality, sports, prediction markets). When an event fires, a swarm of LLM agents analyzes it from  multiple angles and produces a synthesized report. |
 | **[optionace.net](https://optionace.net)** | Provides portfolio-specific optimization opportunities and trade automation for stocks and options. |
 | **[sparkbuddy.io](https://sparkbuddy.io)** | Turns a business idea into a step-by-step plan (GPT-4o, server-side). Full-stack React/Vite + Stripe. |
+| **[AI Influence Graph](https://ai-reg-graph.web.app/)** | Sourced graph of the money and power behind AI regulation: every link cites its evidence and carries a confidence tier (documented / alleged / unverified / disputed), so allegations never pass as fact. |
 
 ### Selected AI systems demos
 
