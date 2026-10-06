@@ -20,7 +20,7 @@ Published Model Context Protocol server to PyPI.
 | **[arethingsok.com](https://arethingsok.com)** | Event-driven world-monitoring (news, air traffic, earthquakes, port congestion, ISP/data-center outages, FX, air quality, sports, prediction markets). When an event fires, a swarm of LLM agents analyzes it from  multiple angles and produces a synthesized report. |
 | **[optionace.net](https://optionace.net)** | Provides portfolio-specific optimization opportunities and trade automation for stocks and options. |
 | **[sparkbuddy.io](https://sparkbuddy.io)** | Turns a business idea into a step-by-step plan (GPT-4o, server-side). Full-stack React/Vite + Stripe. |
-| **[blastgate](https://github.com/jwolberg/blastgate)** | Deterministic agent/MCP supply-chain security gate; fails a change only on a real attacker→secret path; mapped to the OWASP Agentic Top 10. |
+| **[blastgate](https://github.com/jwolberg/blastgate)** | Deterministic agent/MCP supply-chain security gate: fails a change only on a real attacker→secret path, mapped to the OWASP Agentic Top 10. Runs as a CI gate and as a live crawler that scans public GitHub workflows and automatically notifies maintainers through GitHub's private vulnerability reporting, once a finding survives an adversarial AI skeptic review. |
 
 ### Selected AI systems demos
 
