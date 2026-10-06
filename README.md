@@ -29,6 +29,7 @@ Published Model Context Protocol server to PyPI.
 - **[ai-sales-agent](https://github.com/jwolberg/ai-sales-agent)** — real-time voice agent with human-approval-gated payments; a consequential action never fires on its own.
 - **[blastgate](https://github.com/jwolberg/blastgate)** — deterministic agent/MCP supply-chain security gate; fails a change only on a real attacker→secret path; mapped to the OWASP Agentic Top 10. 
 - **[entityiq](https://github.com/jwolberg/entityiq)** — business verification and sanctions screening: a multi-stage pipeline pulls registry, sanctions, domain, network, and web evidence into a deterministic, explainable risk score; every decision is replayable and a human approves every account.
+- **[cfo-ai](https://github.com/jwolberg/cfo-ai)** — autonomous debt-paydown agent: a deterministic, auditable decision engine (no LLM in the loop) forecasts a household's cash, decides what is truly surplus, and moves it onto the costliest card — and usually decides not to act. The Plaid Transfer + Method payment rail runs in shadow mode behind a provider port; no money moves until the shadow run is graded.
 
 ### Stack
 Python (Flask / FastAPI) · JavaScript / React / Vite · TypeScript (ramping) · LangChain / LangGraph · RAG (Pinecone) · MCP · Google Cloud (App Engine, Cloud Run) · Docker · Postgres / Firestore
